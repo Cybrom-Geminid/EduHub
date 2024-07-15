@@ -73,6 +73,15 @@ Join EduHub today and take your education to the next level. Together, we can ac
 
 Ensure both the frontend and backend servers are running simultaneously. You can now access EduHub at `http://localhost:3000`.
 
+## Team Members
+
+- [Shivansh Chourasia](https://github.com/shivansh84ya)
+- [Siddhart Israni](https://github.com/siddharthisrani)
+- [Yash Nigam](https://github.com/Yashop181)
+- [Chirag Shukla](https://github.com/chirag)
+- [Harsh Tiwari](https://github.com/member4)
+- [Amisha Malviya](https://github.com/amiii123malviya)
+
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
