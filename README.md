@@ -87,5 +87,3 @@ Ensure both the frontend and backend servers are running simultaneously. You can
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-# EduHub
-
