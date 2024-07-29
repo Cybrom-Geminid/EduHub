@@ -1,4 +1,3 @@
-
 ## About EduHub
 
 Welcome to EduHub, your ultimate Learning Management System (LMS) designed to revolutionize the educational experience for students. At EduHub, we aim to create a dynamic and interactive learning environment that caters to the diverse needs of learners worldwide.
@@ -86,6 +85,3 @@ Ensure both the frontend and backend servers are running simultaneously. You can
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-# EduHub
-
