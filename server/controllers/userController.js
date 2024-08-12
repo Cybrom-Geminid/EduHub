@@ -62,4 +62,23 @@ const authUser = asyncHandler(async (req, res) => {
   }
 });
 
-module.exports = { registerUser, authUser};
+
+const getUserProfile = asyncHandler(async (req, res) => {
+  //console.log(req.body);
+  const user = await User.findById(req.body._id);
+
+  if (user) {
+    res.json({
+      _id: user._id,
+      name: user.name,
+      email: user.email,     
+      role:user.role,
+    });
+  } else {
+    res.status(500);
+    throw new Error('User not found');
+  }
+});
+
+
+module.exports = { registerUser, authUser,getUserProfile};
