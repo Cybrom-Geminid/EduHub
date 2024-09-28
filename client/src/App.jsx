@@ -3,7 +3,7 @@
 const App=()=>{
   return(
     <>
-    <h1>Hello World</h1>
+    <h1>This is Home Page of Eduhub</h1>
     </>
   )
 }
